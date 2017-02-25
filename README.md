@@ -2,4 +2,4 @@
 New project, powerful model
 
 
-After 1.5 years since my very first academic approach to automatic Diabetic Retinopathy Detection, here is really powerful model, on the edge of state-of-the-art, which eventually become state-of-the-art itself. So far only documentation to be published.
+After 1.5 years since my first academic approach to automatic Diabetic Retinopathy Detection, here is another, really powerful model on the edge of the state-of-the-art. So far only documentation to be published.
